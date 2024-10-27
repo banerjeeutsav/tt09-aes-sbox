@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This circuit performs the AES S-Box computation
+This circuit performs the AES S-Box computation using simple lookup table
 
 ## How to test
 
-Provide the input byte to ui_in and verify the output byte from uo_out
+Provide the input byte IN to ui_in and verify the output byte OUT from uo_out
 
 ## External hardware
 
